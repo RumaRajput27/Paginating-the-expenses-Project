@@ -1,0 +1,8 @@
+expense-pagination/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── app.js
+└── data/
+    └── expenses.json
